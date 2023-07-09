@@ -1,0 +1,1160 @@
+Uri: https://code.jivo.ru/widget/66NN0qwH2X
+File Name: C:\Downloaded Web Sites\kinezis78.ru\widget\66NN0qwH2X
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/
+File Name: C:\Downloaded Web Sites\kinezis78.ru\index.htm
+Content Type: text/html
+
+Uri: https://kinezis78.ru/akcii/ispravlenie-skolioza-i-ploskostopiya
+File Name: C:\Downloaded Web Sites\kinezis78.ru\akcii\ispravlenie-skolioza-i-ploskostopiya.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/articles
+File Name: C:\Downloaded Web Sites\kinezis78.ru\articles.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/artroz
+File Name: C:\Downloaded Web Sites\kinezis78.ru\artroz.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/ateroskleroz
+File Name: C:\Downloaded Web Sites\kinezis78.ru\ateroskleroz.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/boli-v-spine-prichiny-i-lechenie
+File Name: C:\Downloaded Web Sites\kinezis78.ru\boli-v-spine-prichiny-i-lechenie.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/children
+File Name: C:\Downloaded Web Sites\kinezis78.ru\children.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/chto-takoe-artrit
+File Name: C:\Downloaded Web Sites\kinezis78.ru\chto-takoe-artrit.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/gryzha-mezhpozvonochnogo-diska
+File Name: C:\Downloaded Web Sites\kinezis78.ru\gryzha-mezhpozvonochnogo-diska.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/instrumentalnaya-mobilizatsiya-myagkikh-tkaney
+File Name: C:\Downloaded Web Sites\kinezis78.ru\instrumentalnaya-mobilizatsiya-myagkikh-tkaney.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/izbavlenie-ot-lishnego-vesa
+File Name: C:\Downloaded Web Sites\kinezis78.ru\izbavlenie-ot-lishnego-vesa.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/lechenie-dvizheniem-kineziterapiya
+File Name: C:\Downloaded Web Sites\kinezis78.ru\lechenie-dvizheniem-kineziterapiya.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/lechenie-nevrologicheskikh-zabolevaniy
+File Name: C:\Downloaded Web Sites\kinezis78.ru\lechenie-nevrologicheskikh-zabolevaniy.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/lechenie-pozvonochnika
+File Name: C:\Downloaded Web Sites\kinezis78.ru\lechenie-pozvonochnika.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/lechenie-serdechno-sosudistykh-zabolevaniy
+File Name: C:\Downloaded Web Sites\kinezis78.ru\lechenie-serdechno-sosudistykh-zabolevaniy.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/lechenie-sustavov
+File Name: C:\Downloaded Web Sites\kinezis78.ru\lechenie-sustavov.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/lechenie-zabolevaniy-organov-dykhaniya
+File Name: C:\Downloaded Web Sites\kinezis78.ru\lechenie-zabolevaniy-organov-dykhaniya.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/massazh
+File Name: C:\Downloaded Web Sites\kinezis78.ru\massazh.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/obschaya-fizicheskaya-podgotovka
+File Name: C:\Downloaded Web Sites\kinezis78.ru\obschaya-fizicheskaya-podgotovka.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/osteooporoz
+File Name: C:\Downloaded Web Sites\kinezis78.ru\osteooporoz.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/pregnants
+File Name: C:\Downloaded Web Sites\kinezis78.ru\pregnants.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/pressoterapia
+File Name: C:\Downloaded Web Sites\kinezis78.ru\pressoterapia.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/prices
+File Name: C:\Downloaded Web Sites\kinezis78.ru\prices.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/privacy
+File Name: C:\Downloaded Web Sites\kinezis78.ru\privacy.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/reabilitatsiya-na-domu
+File Name: C:\Downloaded Web Sites\kinezis78.ru\reabilitatsiya-na-domu.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/reabilitatsiya-posle-covid-19
+File Name: C:\Downloaded Web Sites\kinezis78.ru\reabilitatsiya-posle-covid-19.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/reabilitatsiya-posle-endoprotezirovaniya
+File Name: C:\Downloaded Web Sites\kinezis78.ru\reabilitatsiya-posle-endoprotezirovaniya.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/reabilitatsiya-posle-insulta-infarkta
+File Name: C:\Downloaded Web Sites\kinezis78.ru\reabilitatsiya-posle-insulta-infarkta.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/reabilitatsiya-posle-travm-i-operatsiy
+File Name: C:\Downloaded Web Sites\kinezis78.ru\reabilitatsiya-posle-travm-i-operatsiy.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/rehabilitation
+File Name: C:\Downloaded Web Sites\kinezis78.ru\rehabilitation.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/therapy
+File Name: C:\Downloaded Web Sites\kinezis78.ru\therapy.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/tilda-blocks-page29550960.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page29550960.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page29550960.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page29550960.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page29642938.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page29642938.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page29642938.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page29642938.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page29643032.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page29643032.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page29643032.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page29643032.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page29764587.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page29764587.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page29764587.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page29764587.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page29870604.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page29870604.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page29870604.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page29870604.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page30911428.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page30911428.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page30911428.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page30911428.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page31638650.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page31638650.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page31638650.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page31638650.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page32386839.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page32386839.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page32386839.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page32386839.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page32446177.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page32446177.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page32446177.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page32446177.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page32545610.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page32545610.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page32545610.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page32545610.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page32545915.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page32545915.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page32545915.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page32545915.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page32548208.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page32548208.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page32548208.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page32548208.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page32552952.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page32552952.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page32552952.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page32552952.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page32555962.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page32555962.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page32555962.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page32555962.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page33333446.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page33333446.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page33333446.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page33333446.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page33362404.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page33362404.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page33362404.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page33362404.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page33363330.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page33363330.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page33363330.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page33363330.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page33371998.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page33371998.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page33371998.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page33371998.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page33644351.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page33644351.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page33644351.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page33644351.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page33905914.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page33905914.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page33905914.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page33905914.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page33942299.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page33942299.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page33942299.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page33942299.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page33974659.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page33974659.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page33974659.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page33974659.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page34073774.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page34073774.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page34073774.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page34073774.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page34104632.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page34104632.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page34104632.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page34104632.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page34118757.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page34118757.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page34118757.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page34118757.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page34311984.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page34311984.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page34311984.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page34311984.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page34336001.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page34336001.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page34336001.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page34336001.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page35085291.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35085291.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page35085291.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35085291.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page35113886.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35113886.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page35113886.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35113886.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page35296950.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35296950.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page35296950.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35296950.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page35436207.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35436207.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page35436207.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35436207.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page35437523.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35437523.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page35437523.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35437523.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page35439106.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35439106.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page35439106.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35439106.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page35470315.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35470315.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page35470315.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35470315.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page35471221.min.css?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35471221.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page35471221.min.js?t=1688320296
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35471221.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page35990412.min.css?t=1688320299
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35990412.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page35990412.min.js?t=1688320299
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page35990412.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page36464305.min.css?t=1688320299
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page36464305.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page36464305.min.js?t=1688320299
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page36464305.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/tilda-blocks-page37024256.min.css?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page37024256.min.css
+Content Type: text/css
+
+Uri: https://kinezis78.ru/tilda-blocks-page37024256.min.js?t=1688320292
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tilda-blocks-page37024256.min.js
+Content Type: application/javascript
+
+Uri: https://kinezis78.ru/vakuumniy-massazh
+File Name: C:\Downloaded Web Sites\kinezis78.ru\vakuumniy-massazh.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/vosstanovlenie-posle-kompressionnykh-perelomov
+File Name: C:\Downloaded Web Sites\kinezis78.ru\vosstanovlenie-posle-kompressionnykh-perelomov.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/vrachi
+File Name: C:\Downloaded Web Sites\kinezis78.ru\vrachi.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/vrachi/Atanasova
+File Name: C:\Downloaded Web Sites\kinezis78.ru\vrachi\Atanasova.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/vrachi/Bogdanova
+File Name: C:\Downloaded Web Sites\kinezis78.ru\vrachi\Bogdanova.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/vrachi/hodirev
+File Name: C:\Downloaded Web Sites\kinezis78.ru\vrachi\hodirev.html
+Content Type: text/html
+
+Uri: https://kinezis78.ru/vrachi/Neff
+File Name: C:\Downloaded Web Sites\kinezis78.ru\vrachi\Neff.html
+Content Type: text/html
+
+Uri: https://mc.yandex.ru/watch/83669308
+File Name: C:\Downloaded Web Sites\kinezis78.ru\watch\83669308
+Content Type: image/gif
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\kinezis78.ru\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cards-1.0.min.css
+File Name: C:\Downloaded Web Sites\kinezis78.ru\css\tilda-cards-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cover-1.0.min.css
+File Name: C:\Downloaded Web Sites\kinezis78.ru\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\kinezis78.ru\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\kinezis78.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\kinezis78.ru\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\kinezis78.ru\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\kinezis78.ru\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cards-1.0.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-cards-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-map-1.0.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-map-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-popup-1.0.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-popup-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-t431-table-1.0.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-t431-table-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-t994-stories-1.0.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-t994-stories-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\kinezis78.ru\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3031-3864-4936-b432-306137643739/img-3332-1.jpeg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3031-3864-4936-b432-306137643739\img-3332-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3061-3333-4862-b832-616663333236/IMG_4022.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3061-3333-4862-b832-616663333236\IMG_4022.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3061-6637-4135-a136-636665666332/-/resizeb/20x/IMG_3315.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3061-6637-4135-a136-636665666332\-\resizeb\20x\IMG_3315.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3062-3766-4366-b538-313766323532/-/resizeb/20x/IMG_9874_25_11zon.jpeg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3062-3766-4366-b538-313766323532\-\resizeb\20x\IMG_9874_25_11zon.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3062-3766-4366-b538-313766323532/IMG_9874_25_11zon.jpeg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3062-3766-4366-b538-313766323532\IMG_9874_25_11zon.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3130-6264-4332-b131-333362313961/-/resizeb/20x/a6e0c3f753c2741689d6.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3130-6264-4332-b131-333362313961\-\resizeb\20x\a6e0c3f753c2741689d6.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3130-6264-4332-b131-333362313961/a6e0c3f753c2741689d6.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3130-6264-4332-b131-333362313961\a6e0c3f753c2741689d6.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3134-3465-4638-b839-613539303832/-/resizeb/20x/btl-6000-lymphastim-.jpeg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3134-3465-4638-b839-613539303832\-\resizeb\20x\btl-6000-lymphastim-.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3137-3762-4633-a134-396663346239/IMG_4135.JPG
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3137-3762-4633-a134-396663346239\IMG_4135.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3139-3066-4364-b766-356132306637/-/resizeb/20x/IMG_3315.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3139-3066-4364-b766-356132306637\-\resizeb\20x\IMG_3315.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3161-6639-4935-b937-643562323731/Akrobat-Bold-_1_.woff
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3161-6639-4935-b937-643562323731\Akrobat-Bold-_1_.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3164-3735-4830-b265-336563363937/2022-12-12-16-33-30.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3164-3735-4830-b265-336563363937\2022-12-12-16-33-30.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3165-3932-4535-b863-346362343062/img-9813.jpeg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3165-3932-4535-b863-346362343062\img-9813.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3231-3561-4134-a539-326635373939/img-9681.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3231-3561-4134-a539-326635373939\img-9681.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3232-3130-4665-b461-373636313434/img-3332-1.jpeg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3232-3130-4665-b461-373636313434\img-3332-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3233-3235-4030-b136-663933653165/-/resizeb/20x/IMG_3593.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3233-3235-4030-b136-663933653165\-\resizeb\20x\IMG_3593.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3235-3563-4039-b636-303738373133/-/resizeb/20x/detskij-massazh-pri-.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3235-3563-4039-b636-303738373133\-\resizeb\20x\detskij-massazh-pri-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3235-3563-4039-b636-303738373133/detskij-massazh-pri-.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3235-3563-4039-b636-303738373133\detskij-massazh-pri-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3235-6635-4233-b936-646530356532/IMG_9656_24_11zon.jpeg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3235-6635-4233-b936-646530356532\IMG_9656_24_11zon.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3237-6134-4162-a532-316263353932/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3237-6134-4162-a532-316263353932\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3239-3933-4131-b839-376531613738/2022-12-12-14-26-45.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3239-3933-4131-b839-376531613738\2022-12-12-14-26-45.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3263-6230-4663-b065-313336376661/-/resizeb/20x/photo_2023-03-21_18-.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3263-6230-4663-b065-313336376661\-\resizeb\20x\photo_2023-03-21_18-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3264-3836-4933-a233-343036383934/-/resizeb/20x/_.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3264-3836-4933-a233-343036383934\-\resizeb\20x\_.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3266-6463-4139-b763-323066316530/-/resizeb/20x/IMG_3966_2_1.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3266-6463-4139-b763-323066316530\-\resizeb\20x\IMG_3966_2_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3331-6665-4561-a530-636135633238/IMG_7999_copy_20_11z.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3331-6665-4561-a530-636135633238\IMG_7999_copy_20_11z.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3332-3139-4265-b365-386133643064/IMG_3892_5_11zon.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3332-3139-4265-b365-386133643064\IMG_3892_5_11zon.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3332-6439-4131-b363-636662396339/tlbmcdo30dog0crstl20.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3332-6439-4131-b363-636662396339\tlbmcdo30dog0crstl20.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3332-6561-4434-b063-626635383663/IMG_4022.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3332-6561-4434-b063-626635383663\IMG_4022.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3333-6465-4336-b231-313433336532/-/resizeb/20x/310c53302337a44292c6.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3333-6465-4336-b231-313433336532\-\resizeb\20x\310c53302337a44292c6.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3337-3330-4834-b865-613765376564/detskij-massazh-pri-.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3337-3330-4834-b865-613765376564\detskij-massazh-pri-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3361-6132-4163-a335-646566396237/2022-12-12-13-46-17.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3361-6132-4163-a335-646566396237\2022-12-12-13-46-17.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3364-6132-4935-a565-663134613135/-/resizeb/20x/2022-12-12_14-29-58.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3364-6132-4935-a565-663134613135\-\resizeb\20x\2022-12-12_14-29-58.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3366-3339-4234-b036-663762643863/-/resizeb/20x/noroot.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3366-3339-4234-b036-663762643863\-\resizeb\20x\noroot.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3432-3362-4261-b130-646164346162/-/resizeb/20x/2022-12-12_16-33-30.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3432-3362-4261-b130-646164346162\-\resizeb\20x\2022-12-12_16-33-30.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3432-3462-4563-b830-393465356639/IMG_3892_5_11zon.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3432-3462-4563-b830-393465356639\IMG_3892_5_11zon.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3432-6364-4635-b236-303364366336/__.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3432-6364-4635-b236-303364366336\__.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3433-6663-4933-a234-646530663231/-/resizeb/20x/noroot.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3433-6663-4933-a234-646530663231\-\resizeb\20x\noroot.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3435-6334-4637-a565-356662636638/IMG_4078.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3435-6334-4637-a565-356662636638\IMG_4078.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3437-3138-4433-a631-613665336337/photo_2023-03-21_18-.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3437-3138-4433-a631-613665336337\photo_2023-03-21_18-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3461-3633-4636-b265-363461646363/-/resizeb/20x/IMG_4135.JPG
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3461-3633-4636-b265-363461646363\-\resizeb\20x\IMG_4135.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3461-6637-4164-b634-613134383834/IMG_4117.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3461-6637-4164-b634-613134383834\IMG_4117.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3462-3237-4864-b335-633163626133/IMG_7999_copy_20_11z.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3462-3237-4864-b335-633163626133\IMG_7999_copy_20_11z.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3463-3162-4663-b339-646138356336/-/resizeb/20x/IMG_3966_2_1.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3463-3162-4663-b339-646138356336\-\resizeb\20x\IMG_3966_2_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3465-3266-4264-a165-646261663164/-/resizeb/20x/1c5b8cd7-959d-47b5-8.JPG
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3465-3266-4264-a165-646261663164\-\resizeb\20x\1c5b8cd7-959d-47b5-8.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3531-3537-4266-b439-316163306633/2022-12-12_16-35-13.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3531-3537-4266-b439-316163306633\2022-12-12_16-35-13.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3535-6135-4237-a130-303363346131/-/resizeb/20x/iPhone_14_Plus_-_1_2.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3535-6135-4237-a130-303363346131\-\resizeb\20x\iPhone_14_Plus_-_1_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3536-3664-4333-a664-646463353466/shutterstock_2307579.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3536-3664-4333-a664-646463353466\shutterstock_2307579.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3537-3632-4431-b030-653238313334/IMG_7999_copy_20_11z.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3537-3632-4431-b030-653238313334\IMG_7999_copy_20_11z.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3562-3162-4537-b835-326262653132/-/resizeb/20x/IMG_4268.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3562-3162-4537-b835-326262653132\-\resizeb\20x\IMG_4268.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3562-3162-4537-b835-326262653132/IMG_4268.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3562-3162-4537-b835-326262653132\IMG_4268.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3566-3836-4164-a638-373439393064/73105-1_page-0001.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3566-3836-4164-a638-373439393064\73105-1_page-0001.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3632-6435-4631-b133-623866336463/-/resizeb/20x/IMG_3338.JPG
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3632-6435-4631-b133-623866336463\-\resizeb\20x\IMG_3338.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3632-6435-4631-b133-623866336463/IMG_3338.JPG
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3632-6435-4631-b133-623866336463\IMG_3338.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3634-6461-4366-a138-366331303336/-/resizeb/20x/hodirev.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3634-6461-4366-a138-366331303336\-\resizeb\20x\hodirev.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3635-3230-4430-b261-363430383434/-/resizeb/20x/j35l1z4i.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3635-3230-4430-b261-363430383434\-\resizeb\20x\j35l1z4i.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3638-3164-4461-b665-366463613334/photo_2023-03-21_18-.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3638-3164-4461-b665-366463613334\photo_2023-03-21_18-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3661-3034-4231-b837-636430663465/IMG_7356_copy_12_11z.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3661-3034-4231-b837-636430663465\IMG_7356_copy_12_11z.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3661-3533-4636-b233-343735636461/-/resizeb/20x/iPhone_14_Plus_-_1.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3661-3533-4636-b233-343735636461\-\resizeb\20x\iPhone_14_Plus_-_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3662-3038-4333-b138-376262646634/IMG_46081.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3662-3038-4333-b138-376262646634\IMG_46081.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3663-3239-4336-b232-633732313932/-/resizeb/20x/IMG_4029.JPG
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3663-3239-4336-b232-633732313932\-\resizeb\20x\IMG_4029.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3663-3239-4336-b232-633732313932/IMG_4029.JPG
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3663-3239-4336-b232-633732313932\IMG_4029.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3664-6233-4134-b161-326639633039/-/resizeb/20x/IMG_1245.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3664-6233-4134-b161-326639633039\-\resizeb\20x\IMG_1245.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3664-6233-4134-b161-326639633039/IMG_1245.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3664-6233-4134-b161-326639633039\IMG_1245.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3666-6663-4834-b339-363230623635/-/resizeb/20x/noroot.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3666-6663-4834-b339-363230623635\-\resizeb\20x\noroot.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3735-6139-4037-b266-663561613330/IMG_4135.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3735-6139-4037-b266-663561613330\IMG_4135.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3737-3634-4639-a363-303938373734/IMG_7038_copy.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3737-3634-4639-a363-303938373734\IMG_7038_copy.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3738-3539-4264-a530-396130333761/Akrobat-Light.woff
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3738-3539-4264-a530-396130333761\Akrobat-Light.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3761-3665-4961-b137-356438656662/Fizioterapiya-pri-po.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3761-3665-4961-b137-356438656662\Fizioterapiya-pri-po.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3765-3232-4165-a565-623839656562/-/resizeb/20x/IMG_4552.JPG
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3765-3232-4165-a565-623839656562\-\resizeb\20x\IMG_4552.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3765-3435-4337-b061-636466396131/-/resizeb/20x/IMG_3592.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3765-3435-4337-b061-636466396131\-\resizeb\20x\IMG_3592.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3766-6237-4139-a639-633238326632/-/resizeb/20x/IMG_5561_1_1.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3766-6237-4139-a639-633238326632\-\resizeb\20x\IMG_5561_1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3831-6238-4334-b064-613963316434/-/resizeb/20x/IMG_3857_4_11zon.jpeg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3831-6238-4334-b064-613963316434\-\resizeb\20x\IMG_3857_4_11zon.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3834-6364-4337-b638-386632613464/img-9681.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3834-6364-4337-b638-386632613464\img-9681.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3835-6137-4161-b832-383936326363/2022-12-12-13-46-17.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3835-6137-4161-b832-383936326363\2022-12-12-13-46-17.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3838-3363-4366-b737-383963313332/-/resizeb/20x/IMG_4229.JPG
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3838-3363-4366-b737-383963313332\-\resizeb\20x\IMG_4229.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3864-3862-4331-a364-633265326565/favicon.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3864-3862-4331-a364-633265326565\favicon.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3865-3837-4164-b765-366661353066/2022-12-12-16-33-30.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3865-3837-4164-b765-366661353066\2022-12-12-16-33-30.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3866-3335-4137-a535-316237313364/Akrobat-Thin.woff
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3866-3335-4137-a535-316237313364\Akrobat-Thin.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3866-3535-4462-b837-343030373637/-/resizeb/20x/IMG_6916.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3866-3535-4462-b837-343030373637\-\resizeb\20x\IMG_6916.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3866-3964-4065-b834-313363346563/-/resize/20x/photo.PNG
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3866-3964-4065-b834-313363346563\-\resize\20x\photo.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3930-3137-4764-b437-643631333032/IMG_9874.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3930-3137-4764-b437-643631333032\IMG_9874.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3930-6362-4337-b430-396337306464/-/empty/zabota.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3930-6362-4337-b430-396337306464\-\empty\zabota.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3933-3033-4834-b938-633832396433/img-9681.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3933-3033-4834-b938-633832396433\img-9681.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3934-6632-4763-a133-646237343066/IMG_7038_copy.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3934-6632-4763-a133-646237343066\IMG_7038_copy.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3939-3061-4439-b165-656663626664/file_6yckm.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3939-3061-4439-b165-656663626664\file_6yckm.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3961-3338-4334-b639-326435633366/-/resizeb/20x/__.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3961-3338-4334-b639-326435633366\-\resizeb\20x\__.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3961-3732-4464-b562-373738396463/-/resizeb/20x/-2.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3961-3732-4464-b562-373738396463\-\resizeb\20x\-2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3962-3131-4164-a330-653331343266/graston-technique-ft.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3962-3131-4164-a330-653331343266\graston-technique-ft.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3963-3362-4132-a263-666263356337/-/empty/nesidelki.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild3963-3362-4132-a263-666263356337\-\empty\nesidelki.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6132-6165-4661-a163-396439323831/IMG_4117.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6132-6165-4661-a163-396439323831\IMG_4117.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6133-3639-4263-a531-363835663965/-/resizeb/20x/IMG_3616.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6133-3639-4263-a531-363835663965\-\resizeb\20x\IMG_3616.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6133-3764-4764-a562-646163613864/IMG_3857_4_11zon.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6133-3764-4764-a562-646163613864\IMG_3857_4_11zon.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6134-6539-4536-a636-316461316537/-4.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6134-6539-4536-a636-316461316537\-4.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6136-3561-4636-b634-636163613637/file_6yckm.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6136-3561-4636-b634-636163613637\file_6yckm.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6161-3066-4366-b561-303264396365/-/resizeb/20x/-2.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6161-3066-4366-b561-303264396365\-\resizeb\20x\-2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6162-3862-4762-a130-363961303634/reabilitacia.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6162-3862-4762-a130-363961303634\reabilitacia.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6165-3462-4462-b337-306538653337/-/resizeb/20x/2022-12-12_16-34-33.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6165-3462-4462-b337-306538653337\-\resizeb\20x\2022-12-12_16-34-33.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6165-6662-4861-b265-363763316433/IMG_0138.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6165-6662-4861-b265-363763316433\IMG_0138.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6232-3131-4565-a436-383466383236/-/resizeb/20x/2022-12-12_16-35-13.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6232-3131-4565-a436-383466383236\-\resizeb\20x\2022-12-12_16-35-13.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6232-6434-4236-a235-383534373161/IMG_9813.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6232-6434-4236-a235-383534373161\IMG_9813.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6235-3539-4332-b063-393337383632/Akrobat-SemiBold.woff
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6235-3539-4332-b063-393337383632\Akrobat-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6235-3933-4231-b837-613835366439/mother-helping-daugh.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6235-3933-4231-b837-613835366439\mother-helping-daugh.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6237-6565-4434-b538-386238383864/photo_2023-03-21_18-.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6237-6565-4434-b538-386238383864\photo_2023-03-21_18-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6261-3231-4965-a361-306161303562/2022-12-12-13-46-17.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6261-3231-4965-a361-306161303562\2022-12-12-13-46-17.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6262-3062-4665-b561-363066393863/-/resizeb/20x/_.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6262-3062-4665-b561-363066393863\-\resizeb\20x\_.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6263-3966-4639-b165-326237383939/IMG_4143.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6263-3966-4639-b165-326237383939\IMG_4143.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6264-3661-4332-b035-663961353965/-/resizeb/20x/2022-12-12_16-37-34.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6264-3661-4332-b035-663961353965\-\resizeb\20x\2022-12-12_16-37-34.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6265-3431-4065-a535-303334643063/-/empty/Group_8006.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6265-3431-4065-a535-303334643063\-\empty\Group_8006.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6330-3936-4161-b138-666638383931/-/resizeb/20x/IMG_7482_copy_14_11z.jpeg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6330-3936-4161-b138-666638383931\-\resizeb\20x\IMG_7482_copy_14_11z.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6330-3936-4161-b138-666638383931/IMG_7482_copy_14_11z.jpeg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6330-3936-4161-b138-666638383931\IMG_7482_copy_14_11z.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6333-3939-4433-a431-393364313962/IMG_7895.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6333-3939-4433-a431-393364313962\IMG_7895.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6337-3030-4363-a238-633931356136/-/resizeb/20x/2022-12-12_14-26-45.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6337-3030-4363-a238-633931356136\-\resizeb\20x\2022-12-12_14-26-45.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6338-6635-4035-a465-396239636234/-/resizeb/20x/IMG_3362.JPG
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6338-6635-4035-a465-396239636234\-\resizeb\20x\IMG_3362.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6339-3132-4361-b632-373233326239/-/resizeb/20x/hodirev.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6339-3132-4361-b632-373233326239\-\resizeb\20x\hodirev.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6363-6366-4336-b163-616138323833/-/empty/lesgafta.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6363-6366-4336-b163-616138323833\-\empty\lesgafta.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6364-3733-4834-a339-656162383361/-/resizeb/20x/2022-12-12-14-33-56.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6364-3733-4834-a339-656162383361\-\resizeb\20x\2022-12-12-14-33-56.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6364-3733-4834-a339-656162383361/2022-12-12-14-33-56.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6364-3733-4834-a339-656162383361\2022-12-12-14-33-56.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6365-3334-4737-a437-396136313231/-/resizeb/20x/61c924f0364a3.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6365-3334-4737-a437-396136313231\-\resizeb\20x\61c924f0364a3.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6365-3334-4737-a437-396136313231/61c924f0364a3.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6365-3334-4737-a437-396136313231\61c924f0364a3.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6431-3735-4864-a638-633231313733/tlbmcdo30dog0crstl20.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6431-3735-4864-a638-633231313733\tlbmcdo30dog0crstl20.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6431-6631-4230-a539-393530623363/inside-2.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6431-6631-4230-a539-393530623363\inside-2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6435-3231-4235-b130-373466643465/-/resizeb/20x/mother-helping-daugh.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6435-3231-4235-b130-373466643465\-\resizeb\20x\mother-helping-daugh.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6436-6365-4761-b431-303134306161/IMG_7038_copy.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6436-6365-4761-b431-303134306161\IMG_7038_copy.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6438-3133-4034-b065-633834376533/img-3332-1.jpeg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6438-3133-4034-b065-633834376533\img-3332-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6461-3539-4563-a564-653133643937/IMG_4268.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6461-3539-4563-a564-653133643937\IMG_4268.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6463-6133-4335-a134-333262386236/-/empty/og.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6463-6133-4335-a134-333262386236\-\empty\og.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6530-6539-4132-b738-396333353238/graston-technique-ft.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6530-6539-4132-b738-396333353238\graston-technique-ft.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6535-6366-4664-a165-303239383831/-/resizeb/20x/noroot.png
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6535-6366-4664-a165-303239383831\-\resizeb\20x\noroot.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6537-3266-4631-b830-666131653961/IMG_3857_4_11zon.jpeg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6537-3266-4631-b830-666131653961\IMG_3857_4_11zon.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6539-6631-4134-b765-326565623333/-2_2.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6539-6631-4134-b765-326565623333\-2_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6566-3637-4938-b239-633032333933/2022-12-12-14-33-56.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6566-3637-4938-b239-633032333933\2022-12-12-14-33-56.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6566-6537-4864-a235-343634383462/2022-12-12-16-27-40.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6566-6537-4864-a235-343634383462\2022-12-12-16-27-40.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6631-3062-4361-a534-306436353139/Akrobat-Regular.woff
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6631-3062-4361-a534-306436353139\Akrobat-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild6634-3536-4135-a333-373432346136/photo_2023-01-30_11-.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6634-3536-4135-a333-373432346136\photo_2023-01-30_11-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6634-6131-4932-b262-306262396263/IMG_4268.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6634-6131-4932-b262-306262396263\IMG_4268.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6635-3131-4032-b065-663035326630/IMG_7356_copy_12_11z.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6635-3131-4032-b065-663035326630\IMG_7356_copy_12_11z.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6635-6338-4233-a263-393462346666/-/resizeb/20x/pressoterapiya_pri_m.jpeg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6635-6338-4233-a263-393462346666\-\resizeb\20x\pressoterapiya_pri_m.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6637-3166-4534-b162-316639323233/-/resizeb/20x/7d0548437da5b1ef6593.jpeg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6637-3166-4534-b162-316639323233\-\resizeb\20x\7d0548437da5b1ef6593.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6639-3536-4665-a262-306232303166/-/resizeb/20x/mother-helping-daugh.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6639-3536-4665-a262-306232303166\-\resizeb\20x\mother-helping-daugh.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6662-3039-4136-b934-646136666239/-/resizeb/20x/dad3edee-9ada-48cd-b.JPG
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6662-3039-4136-b934-646136666239\-\resizeb\20x\dad3edee-9ada-48cd-b.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6662-3130-4732-a162-613530346636/favicon.ico
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6662-3130-4732-a162-613530346636\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild6663-6231-4138-b231-363664643161/IMG_8388_copy.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6663-6231-4138-b231-363664643161\IMG_8388_copy.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6664-3334-4237-b732-323734343663/-/resizeb/20x/-2_1.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6664-3334-4237-b732-323734343663\-\resizeb\20x\-2_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6666-3765-4263-b030-373436653964/file_6yckm.jpg
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6666-3765-4263-b030-373436653964\file_6yckm.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6666-6335-4435-b161-306535393064/-/resizeb/20x/IMG_3852.JPG
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6666-6335-4435-b161-306535393064\-\resizeb\20x\IMG_3852.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6666-6335-4435-b161-306535393064/IMG_3852.JPG
+File Name: C:\Downloaded Web Sites\kinezis78.ru\tild6666-6335-4435-b161-306535393064\IMG_3852.JPG
+Content Type: image/jpeg
+
